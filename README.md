@@ -1,4 +1,4 @@
 libyuv-ios
 ==========
 
-precompiled armv7 libyuv for iOS. LIBYUV_VERSION 703.
+precompiled libyuv for iOS (armv7 & armv7s). LIBYUV_VERSION 703.
